@@ -1,0 +1,4 @@
+addImage=playing;
+addImage=non-playing;
+
+players.hitOnObstacle
